@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 DSHTouchBar contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+----------------------------------------------------------------------
+例外 / EXCEPTION — 鲸鱼娘头像图片:
+  Sources/WhaleGirl.swift 中的 Q 版鲸鱼娘形象来自
+  https://github.com/Iphsiibl/deepseek-whale-girl-gallery
+  以 CC BY-NC-SA 4.0 授权 (署名-非商业性使用-相同方式共享)。
+  原始角色: 上善无形「溟月」→ ZipZipPipe「女仆装鲸鱼娘」, 源: 鲸鱼娘开源资产库。
+  该图片资源不适用上面的 MIT 条款: 仅限非商业用途, 须署名, 衍生须以 CC BY-NC-SA 4.0 共享。
+  如需商用, 请移除 WhaleGirl.swift 中的图片或替换为自有素材。
+----------------------------------------------------------------------
