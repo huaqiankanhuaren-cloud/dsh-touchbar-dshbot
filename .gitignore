@@ -1,0 +1,15 @@
+# 构建产物
+DSHTouchBar.app/
+*.o
+*.dSYM/
+.build/
+
+# 本地备份
+.backup/
+
+# 系统
+.DS_Store
+
+# 依赖(插件如用 pnpm/npm)
+plugin/node_modules/
+node_modules/
