@@ -1,3 +1,5 @@
+> **状态**：现行　**主题**：DSHTouchBar　**更新**：2026-11-04
+
 # DSHTouchBar
 
 在 MacBook Pro 的 **Touch Bar** 上实时显示 [DeepSeek Harness](https://github.com/) 里正在工作的 Bot，
